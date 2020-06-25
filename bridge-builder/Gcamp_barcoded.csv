@@ -1,0 +1,3 @@
+,gene,seq,r0,r1,r2,r3,r4,r5,r6,linker1,barcode,linker2
+0,eGFP,TAGCCCGAAGTATTTCAACG,3,5,3,3,4,5,5,xxx,znix,yyy
+1,GCaMP6m,CATCGGACTTTCTCGTACCT,5,1,3,0,2,5,5,xxx,CATCGGACTTTCTCGTACCT,yyy
